@@ -1,4 +1,4 @@
-**Very General**
+# Very General
 [Machine learning for everyone](https://vas3k.com/blog/machine_learning/) (excellent; the first 2 videos are essential, but don&#39;t miss the spooky &#39;Neural net is trying to speak&#39; near the end)
 
 [TensorFlow Playground ](https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.58965&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false)..... highly recommended
@@ -21,7 +21,7 @@ What is machine learning?
 
 ----- [Stanford (Andrew Ng)](http://mlclass.stanford.edu/)
 
-**General**
+# General
 [Artificial intelligence weaknesses](https://cmns.umd.edu/news-events/features/4470)
 
 [AutoML code generation](https://www.reddit.com/r/MachineLearning/comments/cpu5uc/research_what_is_the_state_of_automl_in_2019/)
@@ -82,7 +82,7 @@ Neural Network
 
 ----- ----- [From TensorFlow to PyTorch](https://medium.com/huggingface/from-tensorflow-to-pytorch-265f40ef2a28), [reddit thread](https://www.reddit.com/r/MachineLearning/comments/co5sua/d_how_to_convert_a_pretrained_tensorflow_model_to/)
 
-**Top Machine Learning Academic Units**
+# Top Machine Learning Academic Units
 
 [US News &amp; World Report: Artificial Intelligence](https://www.usnews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings)
 
@@ -94,7 +94,7 @@ Neural Network
 
 ----- 3) [Stanford Artificial Intelligence](http://ai.stanford.edu/)
 
-**Applications outside geophysics**
+# Applications outside geophysics
 
 [Big Data and Artificial Intelligence Analytics in Geosciences: Promises and Potential ](http://www.geosociety.org/gsatoday/groundwork/G372GW/article.htm)(GSA)
 
@@ -106,7 +106,8 @@ Neural Network
 
 [What can machine learning do for geoscience?](https://www.ausimmbulletin.com/feature/can-machine-learning-geoscience/) ([AusiMM](https://ausimm.com/))
 
-**Competitions**
+# Competitions
+
 [AgileGeoscience 2019 Norway](https://agilescientific.com/blog/2019/8/13/the-hack-returns-to-norway)
 
 [Facebook-Pytorch hackathon](https://www.reddit.com/r/MachineLearning/comments/cot2xm/n_facebook_launches_online_global_pytorch/)
