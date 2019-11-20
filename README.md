@@ -98,7 +98,7 @@ Neural Network
 Geoscience math 327p -- 2019sxx, NN-CNN-SVM-Autoencoders-RNN-PCA-cluster
 
 ## Seismic
-4D -- 2018zhb, random forest, 2019dca, NN
+4D -- 2018zhb, random forest, 2019dca, NN \n
 Data combination -- 1989jxx, NN
 Deconvolution -- 1988zmx, NN, 119wmx, NN
 EQ detection -- 2018hbb, NN transfer learning
