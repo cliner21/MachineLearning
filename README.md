@@ -95,18 +95,17 @@ Neural Network
 ----- 3) [Stanford Artificial Intelligence](http://ai.stanford.edu/)
 
 # Applications in geoscience
-Geoscience math 327p -- 2019sxx, NN-CNN-SVM-Autoencoders-RNN-PCA-cluster
-
+Geoscience math 327p -- 2019sxx, NN-CNN-SVM-Autoencoders-RNN-PCA-cluster \
 ## Seismic
-4D -- 2018zhb, random forest, 2019dca, NN \n
-Data combination -- 1989jxx, NN
-Deconvolution -- 1988zmx, NN, 119wmx, NN
-EQ detection -- 2018hbb, NN transfer learning
-Facies classification -- 2018zxx, CNN-F3
-Inversion -- 2018dpw, CNN, 2018hxx, NN
-Interpretation -- 2018mbl, NN, 2018wsf, CNN, 2019sbf, NN-F3, 2018lpx, acyclic NN,
-Seismology -- 2018ktr, NN-CNN-GAN
-Waveform recognition -- 1990pwx, NN
+4D -- 2018zhb, random forest, 2019dca, NN \
+Data combination -- 1989jxx, NN  \
+Deconvolution -- 1988zmx, NN, 119wmx, NN \
+EQ detection -- 2018hbb, NN transfer learning \
+Facies classification -- 2018zxx, CNN-F3 \
+Inversion -- 2018dpw, CNN, 2018hxx, NN \
+Interpretation -- 2018mbl, NN, 2018wsf, CNN, 2019sbf, NN-F3, 2018lpx, acyclic NN \
+Seismology -- 2018ktr, NN-CNN-GAN \
+Waveform recognition -- 1990pwx, NN \
 
 ## Wireline
 Wireline S velocity estimation -- 2018dyi, NN
