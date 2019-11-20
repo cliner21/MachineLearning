@@ -107,7 +107,7 @@ Interpretation -- 2018mbl, NN, 2018wsf, CNN, 2019sbf, NN-F3, 2018lpx, acyclic NN
 Seismology -- 2018ktr, NN-CNN-GAN \
 Waveform recognition -- 1990pwx, NN 
 ## Wireline
-Wireline S velocity estimation -- 2018dyi, NN\
+Shear velocity estimation -- 2018dyi, NN\
 Petrophysics -- 2018imp, NN\
 Log correlation, fault interpretation, 2018mrk, NN
 
